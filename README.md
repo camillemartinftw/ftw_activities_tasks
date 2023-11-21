@@ -3,7 +3,7 @@
 Here are some activities, tasks and colab resources we used in learning
 
 
-## Week 1: Introduction to Machine Learning
+## Week 1: Introduction to Data Science
 
 ## Week 2: Data Management
 
