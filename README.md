@@ -7,7 +7,7 @@ Here are some activities, tasks and colab resources we used in learning
 
 ## Week 2: Data Management
 
-# #Week 3: Data Preparation using Python
+## Week 3: Data Preparation using Python
 
 ## Week 4: Data Visualization
 
@@ -15,7 +15,7 @@ Here are some activities, tasks and colab resources we used in learning
 
 ## Week 6: Exploratory Data Analysis
 
-# #Week 7: Introduction to Machine Learning
+## Week 7: Introduction to Machine Learning
 
 ### Explored Unsupervised and Supervised Learning
 * Linear Regression
@@ -28,6 +28,6 @@ Here are some activities, tasks and colab resources we used in learning
 
 ## Week 11: 
 
-# #Week 12:
+## Week 12:
 
 ## Week 13:
